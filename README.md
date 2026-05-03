@@ -432,4 +432,4 @@ For issues and questions:
 
 **Status**: Active Development
 
-For the latest updates, please check the [GitHub repository](https://github.com/Kritika-Duwal/CosmeticMartTest).
+For the latest updates, please check the [GitHub repository](https://github.com/Kritika-Duwal/Cosmetic-Mart).
